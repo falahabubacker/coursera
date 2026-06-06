@@ -6,6 +6,7 @@
 
 ### To install any python library use PIP, Eg – `pip install pandas`, numpy is installed automatically
 ### Instead of Jupyter we can create .ipynb file inside vscode
+### Inside the .ipynb file Select Kernel and select the newly created venv
 
 ### To open vscode integrated terminal press `Command + J`
 
